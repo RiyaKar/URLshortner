@@ -188,14 +188,6 @@ http://localhost:5173
 
 ---
 
-## 👩‍💻 Developer
-
-**Riya Kar**
-
-A web development project focused on React.js, interactive user interfaces and URL management.
-
----
-
 ## ⚠️ Disclaimer
 
 This project is developed for educational purposes and is not affiliated with any commercial URL shortening service.
